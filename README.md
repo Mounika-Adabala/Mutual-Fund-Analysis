@@ -116,7 +116,7 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 
 | File | Description |
 |------|-------------|
-| [top_30_mutual_funds.xlsx](https://github.com/niravtrivedi23/mutual-fund-analysis-Dashboard-Python-PowerBI/blob/main/top_30_mutual_funds.xlsx) | Final top 30 filtered mutual funds |
+| [top_30_mutual_funds.xlsx](https://github.com/Mounika-Adabala/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx) | Final top 30 filtered mutual funds |
 | [Mutual Fund Dashboard.pbix](https://github.com/Mounika-Adabala/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix) | Power BI dashboard |
 | [Mutual Fund Dashboard.png](https://github.com/Mounika-Adabala/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png) | Dashboard image preview |
 
